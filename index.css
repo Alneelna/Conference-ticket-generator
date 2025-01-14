@@ -42,11 +42,11 @@ body {
   height: 100%;
   font-family: var(--font-family);
   font-size: 16px;
-  background-image: url("./assets/images/pattern-lines.svg"),
-    url("./assets/images/pattern-circle.svg"),
-    url("./assets/images/pattern-squiggly-line-top.svg"),
-    url("./assets/images/pattern-squiggly-line-bottom.svg"),
-    url("./assets/images/background-tablet.png");
+  background-image: url("./assets/pattern-lines.svg"),
+    url("./assets/pattern-circle.svg"),
+    url("./assets/pattern-squiggly-line-top.svg"),
+    url("./assets/pattern-squiggly-line-bottom.svg"),
+    url("./assets/background-tablet.png");
   background-repeat: no-repeat;
   background-position: center, bottom right 20%, top right, bottom left, center;
   background-size: cover, 20%, 30%, 50%, cover;
@@ -177,8 +177,7 @@ main {
         .warning-text {
           .size-warning,
           .error {
-            display: flex;
-            /* justify-content: center; */
+            display: flex
             align-items: center;
             gap: 0.5rem;
             font-size: 0.9rem;
@@ -382,11 +381,11 @@ main {
 
 @media (max-width: 1023px) {
   body {
-    background-image: url("./assets/images/pattern-lines.svg"),
-      url("./assets/images/pattern-circle.svg"),
-      url("./assets/images/pattern-squiggly-line-top.svg"),
-      url("./assets/images/pattern-squiggly-line-bottom.svg"),
-      url("./assets/images/background-tablet.png");
+    background-image: url("./assets/pattern-lines.svg"),
+      url("./assets/pattern-circle.svg"),
+      url("./assets/pattern-squiggly-line-top.svg"),
+      url("./assets/pattern-squiggly-line-bottom.svg"),
+      url("./assets/background-tablet.png");
 
     main {
       width: 100%;
@@ -417,11 +416,11 @@ main {
 
 @media (max-width: 639px) {
   body {
-    background-image: url("./assets/images/pattern-lines.svg"),
-      url("./assets/images/pattern-circle.svg"),
-      url("./assets/images/pattern-squiggly-line-top.svg"),
-      url("./assets/images/pattern-squiggly-line-bottom.svg"),
-      url("./assets/images/background-mobile.png");
+    background-image: url("./assets/pattern-lines.svg"),
+      url("./assets/pattern-circle.svg"),
+      url("./assets/pattern-squiggly-line-top.svg"),
+      url("./assets/pattern-squiggly-line-bottom.svg"),
+      url("./assets/background-mobile.png");
     padding-top: 2rem;
 
     main {
