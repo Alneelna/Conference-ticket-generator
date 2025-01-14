@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-conference-ticket-generator-kSvbwOINkm
+- Live Site URL: https://alneelna.github.io/Conference-ticket-generator/
 
 ## My process
 
